@@ -1,4 +1,4 @@
-# Hello, my name is Von <img src = "https://giphy.com/gifs/hello-Cmr1OMJ2FN0B2" width = "100"/>
+# Hello, my name is Von
 
 <!--
 **VonChon/VonChon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on myself
 - 💬 Ask me about life.
-- 📫 How to reach me: https://www.facebook.com/VonChonn
+- 📫 How to reach me: <a href="https://www.facebook.com/VonChonn">My Facebook Profile</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know, that the bat is the only mammal that can fly 🦇
 
